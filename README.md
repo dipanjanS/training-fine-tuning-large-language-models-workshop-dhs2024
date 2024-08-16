@@ -7,6 +7,19 @@ __Workshop instructor:__ [Dipanjan (DJ) Sarkar](https://www.linkedin.com/in/dipa
 
 <br/>
 
+## Tools and Frameworks Used
+
+<img align="left" width="150" src="https://i.imgur.com/Eoxjs0J.png"/> 
+<img align="left" width="100" src="https://i.imgur.com/KhQJXz3.png"/>
+<img align="left" width="150" src="https://i.imgur.com/1ZMOoc7.png"/>
+<img align="left" width="250" src="https://i.imgur.com/rsw8Wjb.png"/>
+<img align="left" width="150" src="https://i.imgur.com/fd7fi09.png"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## Workshop Overview
 
 This workshop is divided into 5 modules, the following graphic clearly showcases what is covered in each module.
