@@ -112,6 +112,18 @@ Finally you will leverage all these components and build your own end-to-end cus
 
 ---
 
+## Citation
+
+```bibtex
+@misc{dipanjan-sarkar-mastering-llms-workshop-2024,
+  author = {Dipanjan (DJ) Sarkar},
+  title = {Mastering Large Language Models: Training and Fine-Tuning Large Language Models Workshop},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/dipanjanS/training-fine-tuning-large-language-models-workshop-dhs2024}}
+}
+```
 
 ## References and Acknowledgements
 
