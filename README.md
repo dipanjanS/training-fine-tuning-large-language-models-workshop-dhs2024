@@ -15,9 +15,8 @@ __Workshop instructor:__ [Dipanjan (DJ) Sarkar](https://www.linkedin.com/in/dipa
 <img align="left" width="250" src="https://i.imgur.com/rsw8Wjb.png"/>
 <img align="left" width="150" src="https://i.imgur.com/fd7fi09.png"/>
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
+
 <br/>
 
 ## Workshop Overview
