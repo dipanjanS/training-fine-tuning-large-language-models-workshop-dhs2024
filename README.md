@@ -96,6 +96,14 @@ Finally you will leverage all these components and build your own end-to-end cus
 ---
 
 
-## References
+## References and Acknowledgements
 
-TBA Soon
+- [HuggingFace Transformer Documentation](https://huggingface.co/docs/transformers/tasks/token_classification) for giving me datasets and inspiration for the classification and NER tasks
+- [HuggingFace PEFT Documentation](https://huggingface.co/docs/peft/developer_guides/lora) for amazing references to training, merging and switching LoRA Adapters
+- [Jay Alammar's amazing blogs](https://jalammar.github.io/illustrated-transformer/) for providing useful info and illustrations to explain these models in a short time especially for a workshop
+- [Maxime Labonne's Blog and LLM Course](https://mlabonne.github.io/blog/) for a treasure trove of articles and hands-on examples on supervised fine-tuning and human alignment tuning
+- [Sentence Transformers Documentation](https://sbert.net/docs/sentence_transformer/training_overview.html) for really easy to understand examples on how to fine-tune embedder models
+- [Raghav Bali and his LLM Workshop Resources](https://github.com/raghavbali/llm_workshop) for giving me a nice starter to build the GPT-2 RLHF tuning notebook which is way better than the default version in HuggingFace docs
+- [ArXiV papers](https://arxiv.org/) for easy access to RLHF, PPO, DPO and ORPO papers
+- [Analytics Vidhya & GenAI Pinnacle](https://www.analyticsvidhya.com/genaipinnacle) for hosting the conference and some amazing resources I was able to use for covering the concepts around LLMs and fine-tuning
+- TBA soon...
