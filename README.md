@@ -9,13 +9,18 @@ __Workshop instructor:__ [Dipanjan (DJ) Sarkar](https://www.linkedin.com/in/dipa
 
 ## Tools and Frameworks Used
 
-<img align="left" width="150" src="https://i.imgur.com/Eoxjs0J.png"/> 
-<img align="left" width="100" src="https://i.imgur.com/KhQJXz3.png"/>
-<img align="left" width="150" src="https://i.imgur.com/1ZMOoc7.png"/>
-<img align="left" width="250" src="https://i.imgur.com/rsw8Wjb.png"/>
-<img align="left" width="150" src="https://i.imgur.com/fd7fi09.png"/>
+<div>
+  <img align="left" width="150" src="https://i.imgur.com/Eoxjs0J.png" hspace="10"/>
+  <img align="left" width="100" src="https://i.imgur.com/KhQJXz3.png" hspace="10"/>
+  <img align="left" width="150" src="https://i.imgur.com/1ZMOoc7.png" hspace="10"/>
+</div>
+<br clear="left"/><br/>
 
-<br/><br/><br/>
+<div>
+  <img align="left" width="300" src="https://i.imgur.com/rsw8Wjb.png" hspace="0"/>
+  <img align="left" width="160" src="https://i.imgur.com/fd7fi09.png" hspace="0"/>
+</div>
+<br clear="left"/>
 
 <br/>
 
