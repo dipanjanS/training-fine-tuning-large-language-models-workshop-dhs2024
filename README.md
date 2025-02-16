@@ -26,9 +26,9 @@ __Workshop instructor:__ [Dipanjan (DJ) Sarkar](https://www.linkedin.com/in/dipa
 
 ## Server Configuration Setting
 
-I have used [Runpod](https://www.runpod.io/) with A40 NVIDIA GPUs with 48GB VRAM.
-Also the software stack used was PyTorch 2.4.0, Python 3.11, CUDA 12.4 and Ubuntu 22.04.
-Try to keep the stack as similar to prevent library issues.
+- I have used [Runpod](https://www.runpod.io/) with A40 NVIDIA GPUs with 48GB VRAM.
+- Also the software stack used was PyTorch 2.4.0, Python 3.11, CUDA 12.4 and Ubuntu 22.04.
+- Try to keep the stack as similar to prevent library issues.
 ![](https://i.imgur.com/KICOrTx.png)
 
 
